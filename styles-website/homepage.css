@@ -231,6 +231,7 @@
 .contact-text,
 .contact-text1 {
   margin-bottom: 20px;
+  font-weight: 700;
 }
 
 .connect-button {
@@ -247,4 +248,5 @@
   line-height: 50px;
   font-weight: 600;
   color: white;
+  font-weight: 700;
 }
