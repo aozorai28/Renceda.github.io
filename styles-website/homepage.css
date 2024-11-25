@@ -1,0 +1,250 @@
+.body-main {
+  padding-top: 65px;
+}
+
+.homepage {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 120px;
+  margin-bottom: 386px;
+}
+
+.about-main {
+  margin-bottom: 97px;
+}
+
+.service-main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 120px;
+  margin-bottom: 280px;
+}
+
+.service-bottom {
+  display: flex;
+}
+
+.service-text-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.service-box-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: solid;
+  border-radius: 8px;
+  border-width: 1px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-right: 25px;
+  box-shadow: 1px 5px 10px rgba(0, 0, 0, 0.7);
+}
+
+.contact-page {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 40px;
+}
+
+.left-third-main {
+  display: flex;
+  flex-direction: column;
+  margin-left: 100px;
+}
+.bottom-connecttext {
+  display: flex;
+  align-items: center;
+  height: 70px;
+}
+
+.logo-service {
+  display: flex;
+  align-items: center;
+}
+
+.left-first-main {
+  margin-left: 100px;
+}
+
+.left-second-main {
+  margin-left: 100px;
+  margin-right: 50px;
+}
+
+.right-first-main{
+  margin-right: 100px;
+}
+
+.right-second-main {
+  margin-right: 200px;
+}
+
+
+.homepic {
+  width: 500px;
+  border-radius: 30px;
+}
+
+.aboutpic {
+  width: 400px;
+  border-radius: 30px;
+}
+
+.text1,
+.text2,
+.text4,
+.contact-text {
+  font-size: 50px;
+  color: #61bdaf;
+  line-height: 50px;
+  font-weight: 600;
+}
+
+.block {
+  font-weight: 1000;
+}
+
+.text3 {
+  font-size: 40px;
+  color: white;
+  margin-bottom: 15px;
+}
+
+.text4 {
+  width: 500px;
+  line-height: 60px;
+  margin-bottom: 20px;
+}
+
+.text5 {
+  font-size: 20px;
+  color: white;
+  margin-bottom: 15px;
+  width: 750px;
+  line-height: 40px;
+}
+
+.text6 {
+  font-size: 30px;
+  color: #61bdaf;
+  line-height: 50px;
+  font-weight: 600;
+}
+
+.text7 {
+  font-size: 15px;
+  color: white;
+  margin-bottom: 80px;
+  width: 1000px;
+  text-align: center;
+}
+
+.niche {
+  font-size: 20px;
+  color: #61bdaf;
+  font-weight: 600;
+  text-align: center;
+
+}
+
+
+.learn-more {
+  width: 120px;
+  height: 30px;
+  border-radius: 6px;
+  border:none;
+  background-color: #61bdaf;
+  color: white;
+}
+
+.aboutpage {
+  display: flex;
+  justify-content: space-between;
+}
+
+.niche-logo {
+  width: 50px;
+  margin-bottom: 10px;
+}
+
+.niche-info1,
+.niche-info2,
+.niche-info3,
+.niche-info4,
+.niche-info5 {
+  width: 180px;
+  text-align: center;
+  color: white;
+}
+
+.niche-info1,
+.niche-info2,
+.niche-info3,
+.niche-info4 {
+  margin-top: 25px;
+}
+
+.niche-learn1,
+.niche-learn2 {
+  margin-top: 45px;
+}
+
+.niche-learn3 {
+  margin-top: 25px;
+}
+
+.niche-learn4 {
+  margin-top: 44px;
+}
+
+.niche-learn5 {
+  margin-top: 62px;
+}
+
+.niche-learn1,
+.niche-learn2,
+.niche-learn3,
+.niche-learn4,
+.niche-learn5,
+.connect-button {
+  width: 120px;
+  height: 30px;
+  border-radius: 6px;
+  border:none;
+  background-color: #61bdaf;
+  color: white;
+}
+
+.connect-text-bottom {
+  width: 180px;
+  color: white;
+}
+
+.contact-text,
+.contact-text1 {
+  margin-bottom: 20px;
+}
+
+.connect-button {
+  margin-right: 20px;
+}
+
+.contact-icons {
+  width: 30px;
+  margin-right: 8px;
+}
+
+.contact-text1 {
+  font-size: 50px;
+  line-height: 50px;
+  font-weight: 600;
+  color: white;
+}
